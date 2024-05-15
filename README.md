@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Dimas Abi Mesti</h1>
 <h3 align="center">I'm a junior developer and have interest in web development and artificial intelligence. I Like exploring many things in boundary of technologies and crafting innovative solutions.</h3>
-<h3 align="center">I am from Institut Teknologi Perusahaan Listrik Negara-ITPLN</h3>
-<h3 align="center">I'm currently learning about modern web development and artificial intelligence algorithms</h3>
+<h3 align="center">A Student from Institut Teknologi Perusahaan Listrik Negara-ITPLN</h3>
+<h3 align="center">Currently learning about modern web development and artificial intelligence algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasssaja&label=Profile%20views&color=0e75b6&style=flat" alt="dimasabimesti" /> </p>
 
