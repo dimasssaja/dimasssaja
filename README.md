@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dimas Abi Mesti</h1>
-<h3 align="center">I'm a junior developer and have interest in web development and artificial intelligence. I Like exploring many things in boundary of technologies and crafting innovative solutions.</h3>
+<h3 align="center">I'm a junior developer and have interest in Embedded Systems and Machine learning. I Like exploring many things in boundary of technologies and crafting innovative solutions.</h3>
 <h3 align="center">A Student from Institut Teknologi Perusahaan Listrik Negara-ITPLN</h3>
 <h3 align="center">Currently learning about web development and artificial intelligence algorithms</h3>
 
