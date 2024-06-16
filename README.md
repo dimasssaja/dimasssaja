@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Dimas Abi Mesti</h1>
+<h1 align="center">Hi, I'm Dimas</h1>
 <h3 align="center">I'm an IT enthusiast and have interest in Embedded Systems and Machine learning. I Like exploring many things in boundary of technologies and crafting innovative solutions.</h3>
 <h3 align="center">Student from Institut Teknologi Perusahaan Listrik Negara-ITPLN</h3>
 <h3 align="center">Currently learning about IoT and artificial intelligence algorithms</h3>
