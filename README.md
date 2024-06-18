@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dimas+Abi+Mesti!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dimas+Abi+Mesti;" />
 </h1>
 <h3 align="center">Currently learning about IoT and artificial intelligence algorithms</h3>
 
@@ -22,6 +22,6 @@
 <br>
 <div align=center>
     <p><img width=390  src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasssaja&show_icons=true&locale=en&layout=compact" alt="dimasabimesti" /></p>
-    <p>&nbsp;<img width=390 src="https://github-readme-stats.vercel.app/api?username=dimasssaja&show_icons=true&locale=en" alt="dimasabimesti" /></p>
+    <p>&nbsp;<img width=390 src="https://github-readme-stats.vercel.app/api?username=dimasssaja&show_icons=true&locale=en" alt="dimasabimesti" /></p></br>
     <p><img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasssaja&" alt="dimasabimesti" /></p>
 </div>
