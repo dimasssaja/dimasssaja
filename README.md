@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Dimas</h1>
-<h3 align="center">I'm an IT enthusiast and have interest in Embedded Systems and Machine learning. I Like exploring many things in boundary of technologies and crafting innovative solutions.</h3>
-<h3 align="center">Student from Institut Teknologi Perusahaan Listrik Negara-ITPLN</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dimas+Abi+Mesti!;" />
+</h1>
 <h3 align="center">Currently learning about IoT and artificial intelligence algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasssaja&label=Profile%20views&color=0e75b6&style=flat" alt="dimasabimesti" /> </p>
