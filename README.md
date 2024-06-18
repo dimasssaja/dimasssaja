@@ -23,5 +23,5 @@
 <div align=center>
     <img width=390  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasssaja&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="dimasabimesti" />
     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dimasssaja&theme=vue-dark&hide_border=false" alt="dimasabimesti" />
-    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=dimasssaja&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="dimasabimesti" />
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=dimasssaja&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="dimasabimesti" />
 </div>
