@@ -21,7 +21,7 @@
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasssaja&show_icons=true&locale=en&layout=compact" alt="dimasabimesti" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasssaja&show_icons=true&locale=en" alt="dimasabimesti" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasssaja&" alt="dimasabimesti" /></p>
+    <p><img width=390  src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasssaja&show_icons=true&locale=en&layout=compact" alt="dimasabimesti" /></p>
+    <p>&nbsp;<img width=390 src="https://github-readme-stats.vercel.app/api?username=dimasssaja&show_icons=true&locale=en" alt="dimasabimesti" /></p>
+    <p><img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasssaja&" alt="dimasabimesti" /></p>
 </div>
