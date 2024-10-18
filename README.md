@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=24AC8F&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi%2C+There!%F0%9F%91%8B;I'm+Dimas+Abi+Mesti;" />
 </h1>
-<h3 align="center">Currently learning about IoT and artificial intelligence algorithms</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasssaja&label=Profile%20views&color=0e75b6&style=flat" alt="dimasabimesti" /> </p>
 
